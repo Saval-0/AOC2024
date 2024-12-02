@@ -1,6 +1,6 @@
-<img src="./.assets/christmas_ferris.png" width="164">
+<img src="./.assets/banner.png" width="164">
 
-# 🎄 Advent of Code {year}
+# 🎄 Advent of Code 2024
 
 Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/).
 
@@ -11,7 +11,8 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.
 ---
 
 ## Template setup
-
+<details>
+<summary>Click to see how to setup this template</summary>
 This template supports all major OS (macOS, Linux, Windows).
 
 ###  📝 Create your repository
@@ -30,6 +31,7 @@ This template supports all major OS (macOS, Linux, Windows).
 ---
 
 ✨ You can start solving puzzles now! Head to the [Usage section](#usage) to see how to use this template. If you like, you can configure [some optional features](#optional-template-features).
+</details>
 
 ## Usage
 
