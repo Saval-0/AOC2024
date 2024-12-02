@@ -1,8 +1,10 @@
-<img src="./.assets/banner.png" width="164">
+<img src="./.assets/christmas_ferris.png" width="164">
 
 # 🎄 Advent of Code 2024
 
 Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/).
+
+This is my first time working with ADC, and I’m using it as an opportunity to learn a bit of Rust. As a result, my solution might not be the most optimal, and I welcome any suggestions in the form of a pull request.
 
 <!--- advent_readme_stars table --->
 
